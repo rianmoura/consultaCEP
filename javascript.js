@@ -1,3 +1,3 @@
 function exibir(valor){
-    console.log("Hello");
+    console.log(valor);
 }
